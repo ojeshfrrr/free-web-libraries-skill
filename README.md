@@ -22,7 +22,58 @@ Requires Git. Both installers refuse to overwrite an existing skill. Restart Cod
 
 ## Examples
 
-Two self-contained, fictional sites demonstrate the skill's guidance. They use native HTML, CSS and inline SVG, with no external dependencies or build step. Open the HTML files in a browser. Dashboard numbers and events are illustrative only.
+Twelve fictional websites demonstrate the skill's guidance across different visual styles and interactions. They use native HTML, CSS and JavaScript, with no external dependencies or build step. Clone the repository and open `examples/index.html` to browse the gallery, or open any example's `index.html` directly. All brands, numbers, events and forecasts are illustrative. The ocean image in Below the Blue is AI-generated; other artwork is drawn in code. The listening-room animation has no audio.
+
+### Ten new examples
+
+| Example | Concept | Source |
+| --- | --- | --- |
+| Below the Blue | Cinematic deep-sea expedition | [HTML](examples/abyss/index.html) |
+| Frequency | Interactive listening room | [HTML](examples/frequency/index.html) |
+| Orbital | Night-sky field guide | [HTML](examples/orbit/index.html) |
+| Letterform | Interactive typography playground | [HTML](examples/kinetic-type/index.html) |
+| Forma | Ceramics studio | [HTML](examples/atelier/index.html) |
+| Saffron Table | Supper club and menu | [HTML](examples/supper-club/index.html) |
+| Museum of Small Things | Fictional object archive | [HTML](examples/archive/index.html) |
+| Chromatic | Interactive color palette explorer | [HTML](examples/palette/index.html) |
+| Wayfarer | Trail journal | [HTML](examples/trail/index.html) |
+| Weather Window | Illustrated forecast concept | [HTML](examples/weather/index.html) |
+
+<details><summary>View all ten screenshots</summary>
+
+**Below the Blue**
+![Below the Blue](images/abyss.jpg)
+
+**Frequency**
+![Frequency](images/frequency.jpg)
+
+**Orbital**
+![Orbital](images/orbit.jpg)
+
+**Letterform**
+![Letterform](images/kinetic-type.jpg)
+
+**Forma**
+![Forma](images/atelier.jpg)
+
+**Saffron Table**
+![Saffron Table](images/supper-club.jpg)
+
+**Museum of Small Things**
+![Museum of Small Things](images/archive.jpg)
+
+**Chromatic**
+![Chromatic](images/palette.jpg)
+
+**Wayfarer**
+![Wayfarer](images/trail.jpg)
+
+**Weather Window**
+![Weather Window](images/weather.jpg)
+
+</details>
+
+### Earlier examples
 
 ### Field Notes — editorial journal
 
