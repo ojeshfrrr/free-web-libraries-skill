@@ -26,13 +26,13 @@ Two self-contained, fictional sites demonstrate the skill's guidance. They use n
 
 ### Field Notes — editorial journal
 
-![Field Notes website](images/field-notes.jpg)
+![Field Notes website](images/field-notes-clear.jpg)
 
 [Open source](examples/field-notes/index.html)
 
 ### Common Ground — community dashboard
 
-![Common Ground dashboard](images/quiet-metrics.jpg)
+![Common Ground dashboard](images/quiet-metrics-clear.jpg)
 
 [Open source](examples/quiet-metrics/index.html)
 
