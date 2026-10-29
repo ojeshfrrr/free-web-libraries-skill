@@ -10,6 +10,18 @@ Research checked 29 October 2026. The sources below are starting points; inspect
 4. Build responsive layouts and verify actual pages at narrow and wide sizes. Check overflow, content order, readable line lengths, image crops, text zoom and states including hover, focus, error, loading and empty. Test keyboard interaction, visible focus, meaningful labels, contrast and reduced motion. Follow WCAG and test in context; a library's accessibility claims do not guarantee the finished site is accessible.
 5. Measure and refine: review the rendered result and interaction, including real content; ensure assets load, motion can be reduced, and text alternatives convey necessary information. Report which checks were performed and limitations.
 
+## Distinctive design and review
+
+These practical design checks are adapted from Hallmark (MIT; see [license](hallmark-license.txt)). Apply them with judgment to the brief rather than as a rigid visual recipe.
+
+- Start with the audience, the visitor's primary action and the most meaningful real material. Pick a memorable visual idea that belongs to this particular subject, then organize layout, type, color and imagery around it. Compare multiple directions; avoid repeating the same split hero and card grid across unrelated projects.
+- Use a compact token system for color, typography, spacing and surfaces. Prefer a consistent type hierarchy, readable line lengths, an intentional content width and a small set of coherent components. Let different sections use different compositions when their content calls for it.
+- Write specific, useful copy. Give controls clear action names; do not invent evidence, testimonials or statistics. Label fictional example data explicitly. Keep essential content visible without JavaScript.
+- Build the whole experience, including responsive navigation, focus-visible styles and relevant hover, active, disabled, error, loading and empty states where the actual behavior supports them. Preserve semantics and use native controls when suitable. Make the primary content and action easy to find on common screens.
+- Use motion to explain a change or support the story, not as decoration on every element. Respect reduced-motion settings. Prefer transform and opacity for animation; avoid blanket transition rules. Account for long text, narrow screens, image loading and keyboard use.
+- When redesigning an existing site, inventory its current content, routes, links, inputs, selectors and handlers before editing. Preserve user-owned copy and functional behavior unless the requested scope explicitly changes them. Capture the existing site and compare the revised page at desktop and mobile widths; test actual controls and report anything not verified.
+- Review what was rendered, not only the code. Inspect hierarchy, visual balance, contrast, image crops, overflow and states. Fix observed issues before delivery; do not claim a quality or accessibility pass without evidence. Keep the design distinctive while respecting existing brands and the user's instructions.
+
 ## Resource shortlist
 
 | Need | Resource | Use and considerations |

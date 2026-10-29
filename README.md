@@ -2,6 +2,8 @@
 
 A Codex skill for choosing free web libraries and design resources. It helps compare frameworks, components, fonts, icons, illustrations and CDN options, with attention to licensing, accessibility, compatibility and production use.
 
+The design guide includes principles adapted from Hallmark; its MIT notice is included in `skill/references/hallmark-license.txt`.
+
 ## Install
 
 Clone this repository, then run its installer.
@@ -22,7 +24,7 @@ Requires Git. Both installers refuse to overwrite an existing skill. Restart Cod
 
 ## Examples
 
-Twelve fictional websites demonstrate the skill's guidance across different visual styles and interactions. They use native HTML, CSS and JavaScript, with no external dependencies or build step. Clone the repository and open `examples/index.html` to browse the gallery, or open any example's `index.html` directly. All brands, numbers, events and forecasts are illustrative. The ocean image in Below the Blue is AI-generated; other artwork is drawn in code. The listening-room animation has no audio.
+Twelve fictional websites demonstrate the skill's guidance across different visual styles and interactions. They use native HTML, CSS and JavaScript, with no external dependencies or build step. Clone the repository and open `examples/index.html` to browse the gallery, or open any example's `index.html` directly. All brands, numbers, events and forecasts are illustrative. The photographs in Below the Blue, Orbital, Wayfarer, Forma, Saffron Table, Museum of Small Things, and Field Notes are AI-generated. The listening-room animation has no audio.
 
 ### Ten new examples
 
@@ -42,34 +44,34 @@ Twelve fictional websites demonstrate the skill's guidance across different visu
 <details><summary>View all ten screenshots</summary>
 
 **Below the Blue**
-![Below the Blue](images/abyss.jpg)
+![Below the Blue](images/abyss-redesign.png)
 
 **Frequency**
-![Frequency](images/frequency.jpg)
+![Frequency](images/frequency-redesign.png)
 
 **Orbital**
-![Orbital](images/orbit.jpg)
+![Orbital](images/orbit-redesign.png)
 
 **Letterform**
-![Letterform](images/kinetic-type.jpg)
+![Letterform](images/kinetic-type-redesign.png)
 
 **Forma**
-![Forma](images/atelier.jpg)
+![Forma](images/atelier-redesign.png)
 
 **Saffron Table**
-![Saffron Table](images/supper-club.jpg)
+![Saffron Table](images/supper-club-redesign.png)
 
 **Museum of Small Things**
-![Museum of Small Things](images/archive.jpg)
+![Museum of Small Things](images/archive-redesign.png)
 
 **Chromatic**
-![Chromatic](images/palette.jpg)
+![Chromatic](images/palette-redesign.png)
 
 **Wayfarer**
-![Wayfarer](images/trail.jpg)
+![Wayfarer](images/trail-redesign.png)
 
 **Weather Window**
-![Weather Window](images/weather.jpg)
+![Weather Window](images/weather-redesign.png)
 
 </details>
 
@@ -77,13 +79,13 @@ Twelve fictional websites demonstrate the skill's guidance across different visu
 
 ### Field Notes — editorial journal
 
-![Field Notes website](images/field-notes-clear.jpg)
+![Field Notes website](images/field-notes-redesign.png)
 
 [Open source](examples/field-notes/index.html)
 
 ### Common Ground — community dashboard
 
-![Common Ground dashboard](images/quiet-metrics-clear.jpg)
+![Common Ground dashboard](images/quiet-metrics-redesign.png)
 
 [Open source](examples/quiet-metrics/index.html)
 
@@ -95,3 +97,4 @@ Twelve fictional websites demonstrate the skill's guidance across different visu
 - `images/` — screenshots of the examples.
 
 The guide is a starting point, not a guarantee that a specific asset, service or library remains free. Check current documentation and licenses before use. Hosting, domains and third-party services may have separate costs.
+
