@@ -41,7 +41,7 @@ Twelve fictional websites demonstrate the skill's guidance across different visu
 | Wayfarer | Trail journal | [HTML](examples/trail/index.html) |
 | Weather Window | Illustrated forecast concept | [HTML](examples/weather/index.html) |
 
-<details><summary>View all ten screenshots</summary>
+### Redesigned examples
 
 **Below the Blue**
 ![Below the Blue](images/abyss-redesign.png)
@@ -72,8 +72,6 @@ Twelve fictional websites demonstrate the skill's guidance across different visu
 
 **Weather Window**
 ![Weather Window](images/weather-redesign.png)
-
-</details>
 
 ### Earlier examples
 
